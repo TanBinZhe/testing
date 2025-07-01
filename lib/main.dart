@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
       ),
       body:Column(
         mainAxisAlignment: MainAxisAlignment.end,
-        crossAxisAlignment: CrossAxisAlignment.end,//test
+        crossAxisAlignment: CrossAxisAlignment.end,//test // test2
         children: [
           Center(
             child: Container(
